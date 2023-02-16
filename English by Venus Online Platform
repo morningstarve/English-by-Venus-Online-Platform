@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="English">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EVonline.com | Уроки Английского языка</title>
+    <link rel="stylesheet" href="assets/css/#styles-grid.css">
+</head>
+
+<body> 
+    <div class="wrapper">
+      <header>
+        <div class="logo">English by Venus</div>
+        <nav>
+            <ul>
+                <li><a href="#">Main page</a></li>
+                <li><a href="#">О ПЛАТФОРМЕ</a></li>
+                <li><a href="#">News</a></li>
+                <li><a href="#">Contacts</a></li>
+            </ul>
+        </nav>
+      </header>
+
+      <aside class="sidebar">Sidebar</aside>
+      <aside class="sidebar 2">Sidebar 2</aside>
+      <aside class="ads">Ads</aside>
+
+      <main> 
+                 <h1>Welcome to EV Online courses</h1>
+          
+                 <img src="assets/img/335-Complete-English-Course-Beginner-Level-1.jpeg" width="400" height="200" alt="">
+
+          <section class="ENGLISH ALL LEVELS">
+                 <h2> ПОПУЛЯРНЫЕ КУРСЫ</h2>
+                 <style>
+                 h2 {
+                
+                    background-color: rgb(167, 102, 232);
+                    background-size: 20px;
+                
+                 }
+                </h2>
+
+                </style>
+
+            
+                 
+
+                 
+                 <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+                 <img src="assets/img/12англ.jpg" width="400" height="400" alt="">
+
+                 <h2><audio src="Аудио уроки анг яз по методу Пимслера(длятеху кого есть базовые знание)/90.mp3"></audio></h2>
+            
+         </section>
+                <div class="уровни английского"></div>
+            <section class="blog"
+               
+             
+
+        
+           
+                < О ПЛАТФОРМА>
+                    <header>
+                    <h3>ЧТО ТАКОЕ ОНЛАЙН ПЛАТФОРМА ПО ИЗУЧЕНИЮ АНГЛИЙСКОГО ЯЗЫКА EV?</h3>
+                </header>
+                <section>
+                    <p>EV- это полноценая обучающая платформа для компьютеров и смартфонов, которая подойдет как для начинающих, так и для желающих повысить свой уровень. Образовательный процесс построен по принципу онлайн самоучителя английского языка и в основе имеет уникальную авторскую методику. Это целая база знаний для тех, кто только начинает изучать английский. На сайте есть справочник по грамматике английского языка, структурированные разговорники для любых ситуаций, бизнес английский, тесты и другая полезная информация для начального уровня. 
+                    </section>
+                    <footer>
+
+                      
+                    </footer>
+                    </article>
+
+                <article>
+                    <h3></h3>
+                    <p>Особое внимание стоит обратить на уроки английского языка для уровня Elementary. Процесс обучения происходит самостоятельно, один на один с интерактивным интерфейсом самоучителя. Вам будет доступно все, что нужно для обучению: видеоуроки, аудиоуроки, грамматические правила. с помощью которого вы освоите базовые темы. Они станут основой при дальнейшем изучении английского и облегчат освоение новых тем.</p>             </p>
+                </article>
+            </section>
+        </main>
+
+        <h5> Английский с EV это легко, интересно и
+            эффективно!</h5>
+            <style>
+                 h5{
+                
+                    background-color:rgb(238, 241, 92);
+                    background-size: 70px;
+                    width: 100px; height: 100px;
+                
+                 }
+                </h5>
+                
+                </style>
+           
+        <h4>АУДИО УРОКИ ДЛЯ НАЧАЛЬНЫХ УРОВНЕЙ</h4>
+        <style>
+                 h4{
+                
+                    background-color:rgb(228, 69, 69);
+                    background-size: 20px;
+                
+                 }
+                </h4>
+                
+                </style>
+
+       
+        <p> 
+            <h1> 1 АУДИО УРОК</h1>
+        <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+        <!-- Audio -->
+        <audio src="AUDIO 10 /01.mp3">
+            </audio>
+            <hr> 
+            <!-- Audio -->
+            <audio controls>
+                <source src="AUDIO 10 /01.mp3">
+            </audio>
+            <hr>
+            <audio src="AUDIO 10 /01.mp3"></audio>
+
+            <h1> 2 АУДИО УРОК</h1>
+        <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+        <!-- Audio -->
+        <audio src="AUDIO 10 /02.mp3">
+            </audio>
+            <hr> 
+            <!-- Audio -->
+            <audio controls>
+                <source src="AUDIO 10 /02.mp3">
+            </audio>
+            <hr>
+            <audio src="AUDIO 10 /02.mp3"></audio>
+
+            <h1> 3 АУДИО УРОК</h1>
+            <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+            <!-- Audio -->
+            <audio src="AUDIO 10 /03.mp3">
+                </audio>
+                <hr> 
+                <!-- Audio -->
+                <audio controls>
+                    <source src="AUDIO 10 /03.mp3">
+                </audio>
+                <hr>
+                <audio src="AUDIO 10 /03.mp3"></audio>
+
+                <h1> 4 АУДИО УРОК</h1>
+            <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+            <!-- Audio -->
+            <audio src="AUDIO 10 /04.mp3">
+                </audio>
+                <hr> 
+                <!-- Audio -->
+                <audio controls>
+                    <source src="AUDIO 10 /04.mp3">
+                </audio>
+                <hr>
+                <audio src="AUDIO 10 /04.mp3"></audio>
+
+
+                <h1> 5 АУДИО УРОК</h1>
+            <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+            <!-- Audio -->
+            <audio src="AUDIO 10 /05.mp3">
+                </audio>
+                <hr> 
+                <!-- Audio -->
+                <audio controls>
+                    <source src="AUDIO 10 /05.mp3">
+                </audio>
+                <hr>
+                <audio src="AUDIO 10 /05.mp3"></audio>
+
+                <h1> 6 АУДИО УРОК</h1>
+            <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+            <!-- Audio -->
+            <audio src="AUDIO 10 /06.mp3">
+                </audio>
+                <hr> 
+                <!-- Audio -->
+                <audio controls>
+                    <source src="AUDIO 10 /06.mp3">
+                </audio>
+                <hr>
+                <audio src="AUDIO 10 /06.mp3"></audio>
+
+                <h1> 7 АУДИО УРОК</h1>
+                <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+                <!-- Audio -->
+                <audio src="AUDIO 10 /07.mp3">
+                    </audio>
+                    <hr> 
+                    <!-- Audio -->
+                    <audio controls>
+                        <source src="AUDIO 10 /07.mp3">
+                    </audio>
+                    <hr>
+                    <audio src="AUDIO 10 /07.mp3"></audio>
+
+
+                    <h1> 8 АУДИО УРОК</h1>
+                    <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+                    <!-- Audio -->
+                    <audio src="AUDIO 10 /08.mp3">
+                        </audio>
+                        <hr> 
+                        <!-- Audio -->
+                        <audio controls>
+                            <source src="AUDIO 10 /08.mp3">
+                        </audio>
+                        <hr>
+                        <audio src="AUDIO 10 /08.mp3"></audio>
+
+
+                        <h1> 9 АУДИО УРОК</h1>
+                        <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+                        <!-- Audio -->
+                        <audio src="AUDIO 10 /09.mp3">
+                            </audio>
+                            <hr> 
+                            <!-- Audio -->
+                            <audio controls>
+                                <source src="AUDIO 10 /09.mp3">
+                            </audio>
+                            <hr>
+                            <audio src="AUDIO 10 /09.mp3"></audio>
+
+
+
+                        <h1> 10 АУДИО УРОК</h1>
+                        <img src="assets/img/11англ.jpg" width="400" height="400" alt="">
+                        <!-- Audio -->
+                        <audio src="AUDIO 10 /10.mp3">
+                            </audio>
+                            <hr> 
+                            <!-- Audio -->
+                            <audio controls>
+                                <source src="AUDIO 10 /10.mp3">
+                            </audio>
+                            <hr>
+                            <audio src="AUDIO 10 /10.mp3"></audio>
+      </p>
+
+
+        
+        <footer>
+            <nav>
+                <ul>
+                    <li><a href="#">Main page</a></li>
+                    <li><a href="#">Articles</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Contacts</a></li> 
+                </ul>
+            </nav>
+
+            <p>Copyright &copy; Evonline.com</p>
+        </footer>
+    </article>
+    <hr>
+</body>
+
+</html>
